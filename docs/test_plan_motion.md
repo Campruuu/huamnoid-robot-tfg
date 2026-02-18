@@ -19,3 +19,9 @@ Validar que la base:
 
 4. Seguretat
    - timeout de comunicació: si no rep comanda en X ms → stop motors
+
+
+## Validació software (sense hardware)
+- Compilació OK per Arduino Mega (Arduino IDE 2.3.7)
+- Ús de memòria: ~5 KB flash, ~293 B RAM
+
